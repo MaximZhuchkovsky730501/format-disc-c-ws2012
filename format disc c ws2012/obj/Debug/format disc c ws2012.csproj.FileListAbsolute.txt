@@ -1,0 +1,7 @@
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\format disc c ws2012\format disc c ws2012\bin\Debug\format disc c ws2012.exe.config
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\format disc c ws2012\format disc c ws2012\bin\Debug\format disc c ws2012.exe
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\format disc c ws2012\format disc c ws2012\bin\Debug\format disc c ws2012.pdb
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\format disc c ws2012\format disc c ws2012\obj\Debug\format disc c ws2012.csproj.AssemblyReference.cache
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\format disc c ws2012\format disc c ws2012\obj\Debug\format disc c ws2012.csproj.CoreCompileInputs.cache
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\format disc c ws2012\format disc c ws2012\obj\Debug\format disc c ws2012.exe
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\format disc c ws2012\format disc c ws2012\obj\Debug\format disc c ws2012.pdb
